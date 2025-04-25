@@ -22,7 +22,7 @@ The Streamlit app allows users to:
 - Get real-time predictions for BTE and CO₂ emissions
 
 ### Sample Screenshot
-![Dashboard Preview](preview.png) *(Add your image here if available)*
+![Dashboard Preview](dashboard.png) 
 
 ---
 
