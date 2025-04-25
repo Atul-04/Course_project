@@ -1,7 +1,4 @@
-Sure! Here's the complete `README.md` content in pure Markdown format:
-
-```markdown
-# 🚀 Biofuel Blend Optimization using Machine Learning and Genetic Algorithms
+# 🚀 AI-Driven Optimization of Biofuel-Petroleum Blending Ratios for Sustainable Energy
 
 This project applies machine learning models and multi-objective genetic algorithms to optimize biofuel blends, aiming to **maximize Brake Thermal Efficiency (BTE)** and **minimize CO₂ emissions**. It includes:
 
@@ -44,8 +41,8 @@ The Streamlit app allows users to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/biofuel-optimizer.git
-cd biofuel-optimizer
+git clone https://github.com/Atul-04/Course_project.git
+cd Course_project
 ```
 
 ### 2. Install Requirements
@@ -116,6 +113,3 @@ This project is for academic use under the course **CL653 - Applications of AI a
 - [Scikit-learn](https://scikit-learn.org)
 - [DEAP - Evolutionary Algorithms in Python](https://deap.readthedocs.io)
 - [Streamlit](https://streamlit.io)
-```
-
-Let me know if you'd like a `.md` file download version or to include deployment links or a demo video!
